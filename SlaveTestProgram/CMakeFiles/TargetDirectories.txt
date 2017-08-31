@@ -1,0 +1,3 @@
+D:/Programming/cpp/github/CMake_HelloDll/SlaveTestProgram/CMakeFiles/slave.dir
+D:/Programming/cpp/github/CMake_HelloDll/SlaveTestProgram/CMakeFiles/edit_cache.dir
+D:/Programming/cpp/github/CMake_HelloDll/SlaveTestProgram/CMakeFiles/rebuild_cache.dir
